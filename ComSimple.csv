@@ -1,0 +1,571 @@
+,Country,People,Total_number_of_astronaut ,Number_of_Satilites,,,Purpose,Amount,,Launches,Name,Flight_Time
+0,Algeria,,,5,,,Amateur Radio,9,,,Garrett Reisman,107:03:16
+1,Argentina ,,,30,,,Communications ,3603,,,Takuya Onishi,115:02:22
+2,Australia,,,13,,,Communications Maritime Tracking ,6,,6,Vladimir N. Dezhurov,115:08:43
+9,Brazil,,,10,,,Communications Technology Development   ,6,,3,Sergei Revin,124:23:51
+11,Canada ,,,23,,,Earth Obesrvation,1119,,,Daniel Tani,131:18:05
+13,China ,3,11,313,,,Earth Observation Technology Development ,8,,268,Georgi Grechko,134:20:32
+17,Ecuador,,,27,,,Earth Science ,24,,,Jack D. Fischer,135:18:08
+22,Finland,,,17,,,Navigation Global Positioning  ,140,,,Aleksandr Ivanchenkov,139:14:47
+23,France,,,13,,,Navigation Regional Positioning ,14,,,"Norman Thagard, M.D.",140:13:27
+24,Germany ,1,117,23,,,Space Observation,10,,,Kimiya Yui,141:16:09
+27,India,,,48,,,Space Science ,99,,76,Kjell N. Lindgren,141:16:09
+28,Indonesia,,,4,,,Surveillance  ,13,,,Jerry Linenger,143:02:50
+31,Israel,,,4,,,Technology Demonstration   ,41,,11,"Frank L. Culbertson, Jr.",143:14:51
+32,Italy,,,9,,,Technology Development   ,362,,,Evgeny Tarelkin,143:16:19
+33,Japn,,,69,,,,,,126,Anatoly Artsebarsky,144:15:21
+39,Luxembourg,,,25,,,,,,,Vladimir Dzhanibekov,145:15:58
+41,Mexico,,,5,,,,,,,Randolph Bresnik,149:12:13
+44,Netherlands,,,4,,,,,,,Sandra Magnus,157:08:44
+47,Norway,,,8,,,,,,,Kevin A. Ford,157:13:13
+53,Russia,3,11,159,,,,,,1395,William Shepherd,159:05:55
+54,Saudi Arabia ,,,10,,,,,,,Dmitri Kondratyev,159:07:18
+58,South Korea ,,,12,,,,,,1,John Blaha,161:02:48
+59,Spain,,,13,,,,,,1,"Thomas Marshburn, M.D.",161:07:03
+68,UAE,,,12,,,,,,,Timothy Creamer,163:05:33
+69,UK,,,405,,,,,,1,Gregory R. Wiseman,165:08:00
+71,USA ,3,339,2520,,,,,,1348,Chris Hadfield,165:16:20
+72,Kazakhstan,,,,,,,,,701,Clayton Anderson,166:21:10
+73,South Africa,,,,,,,,,303,Yelena Serova,167:05:42
+74,North Korea,,,,,,,,,5,Satoshi Furukawa,167:06:14
+75,New Zealand ,,,,,,,,,13,Victor J. Glover,167:06:29
+76,Liberia,,,,,,,,,36,Norishige Kanai,168:05:18
+,,,,,,,,,,,Scott D. Tingle,168:05:18
+,,,,,,,,,,,"David Wolf, M.D.",169:08:58
+,,,,,,,,,,,Aleksandr Laveykin,174:03:25
+,,,,,,,,,,,Klaus-Dietrich Flade,175:02:51
+,,,,,,,,,,,Andrew Thomas,177:09:14
+,,,,,,,,,,,Ronald Garan,177:23:54
+,,,,,,,,,,,Barry Wilmore,178:00:58
+,,,,,,,,,,,Douglas Wheelock,178:09:33
+,,,,,,,,,,,Yelena Kondakova,178:09:41
+,,,,,,,,,,,Alexander Poleshchuk,179:00:43
+,,,,,,,,,,,Aleksandr Balandin,179:01:17
+,,,,,,,,,,,Karen Nyberg,180:00:30
+,,,,,,,,,,,Catherine Coleman,180:03:59
+,,,,,,,,,,,Andreas Mogensen,181:23:47
+,,,,,,,,,,,Aydyn Aimbetov,181:23:47
+,,,,,,,,,,,Aleksandr Lazutkin,184:22:07
+,,,,,,,,,,,Sergei Treshchov,184:22:15
+,,,,,,,,,,,Sergey Kud-Sverchkov,184:23:09
+,,,,,,,,,,,Timothy Peake,185:22:11
+,,,,,,,,,,,Daniel Burbank,187:21:47
+,,,,,,,,,,,Tracy Caldwell Dyson,188:19:15
+,,,,,,,,,,,Michael Fossum,193:19:03
+,,,,,,,,,,,Ivan Vagner,195:18:49
+,,,,,,,,,,,Steven Swanson,195:20:47
+,,,,,,,,,,,Serena Auñón-Chancellor,196:12:43
+,,,,,,,,,,,Sergey Prokopyev,196:12:43
+,,,,,,,,,,,Frank De Winne,198:17:35
+,,,,,,,,,,,Gregory Chamitoff,198:18:01
+,,,,,,,,,,,Valery Tokarev,199:11:06
+,,,,,,,,,,,Samantha Cristoforetti,199:16:42
+,,,,,,,,,,,Leonid Popov,200:14:45
+,,,,,,,,,,,Yuri Lonchakov,200:18:39
+,,,,,,,,,,,Salizhan Sharipov,201:14:49
+,,,,,,,,,,,James Voss,202:05:29
+,,,,,,,,,,,Nick Hague,202:15:45
+,,,,,,,,,,,Anne McClain,203:15:16
+,,,,,,,,,,,David Saint-Jacques,203:15:16
+,,,,,,,,,,,André Kuipers,203:15:50
+,,,,,,,,,,,John Phillips,203:17:23
+,,,,,,,,,,,Jessica Meir,204:15:19
+,,,,,,,,,,,"Robert Thirsk, M.D.",204:18:30
+,,,,,,,,,,,Edward Lu,204:22:16
+,,,,,,,,,,,Richard R. Arnold,208:13:30
+,,,,,,,,,,,"Jean-Pierre Haigneré, EAC",209:12:25
+,,,,,,,,,,,Susan Helms,210:23:07
+,,,,,,,,,,,Anatoli Berezovoy,211:09:04
+,,,,,,,,,,,"Michael R. Barratt, M.D.",211:11:47
+,,,,,,,,,,,Kenneth Bowersox,212:14:12
+,,,,,,,,,,,Terry Virts,213:10:50
+,,,,,,,,,,,Vladimir Kovalyonok,216:09:09
+,,,,,,,,,,,Valentin Lebedev,219:06:00
+,,,,,,,,,,,Shannon Lucid,223:02:52
+,,,,,,,,,,,Andrew J. Feustel,224:09:15
+,,,,,,,,,,,William S. McArthur,224:22:19
+,,,,,,,,,,,Richard Mastracchio,226:13:37
+,,,,,,,,,,,Daniel Bursch,226:22:15
+,,,,,,,,,,,Leroy Chiao,229:08:40
+,,,,,,,,,,,Carl Walz,230:13:03
+,,,,,,,,,,,Oleg Atkov,236:22:49
+,,,,,,,,,,,Viktor Savinykh,242:21:28
+,,,,,,,,,,,Timothy L. Kopra,244:01:01
+,,,,,,,,,,,Michael Lopez-Alegria,258:22:46
+,,,,,,,,,,,Gennady Strekalov,268:22:26
+,,,,,,,,,,,Andrew R. Morgan,271:06:28
+,,,,,,,,,,,Kathleen Rubins,300:01:31
+,,,,,,,,,,,Sergei Ryazanski,304:23:22
+,,,,,,,,,,,Joseph M. Acaba,305:00:35
+,,,,,,,,,,,Aleksandr Pavlovich Aleksandrov,309:18:02
+,,,,,,,,,,,Gennadi Manakov,309:21:19
+,,,,,,,,,,,Paolo A. Nespoli,313:02:37
+,,,,,,,,,,,"Sunita ""Suni"" Williams",321:17:15
+,,,,,,,,,,,Christina Koch,328:13:58
+,,,,,,,,,,,Yuri Gidzenko,329:22:47
+,,,,,,,,,,,Shannon Walker,330:13:40
+,,,,,,,,,,,Aleksandr Samokutyayev,331:11:23
+,,,,,,,,,,,Vladimir Lyakhov,333:07:48
+,,,,,,,,,,,Roman Romanenko,333:11:00
+,,,,,,,,,,,Aleksandr Misurkin,333:11:28
+,,,,,,,,,,,Michael S. Hopkins,333:12:54
+,,,,,,,,,,,Maksim Surayev,334:12:09
+,,,,,,,,,,,Andrei Borisenko,337:08:56
+,,,,,,,,,,,Talgat Musabayev,341:09:48
+,,,,,,,,,,,Soichi Noguchi,344:09:34
+,,,,,,,,,,,Koichi Wakata,347:08:32
+,,,,,,,,,,,Thomas Reiter,350:05:35
+,,,,,,,,,,,Sergey Nikolayevich Ryzhikov,358:02:24
+,,,,,,,,,,,Alexander Gerst,361:20:43
+,,,,,,,,,,,Vladimir Solovyov,361:22:50
+,,,,,,,,,,,Oleg Artemyev,364:23:05
+,,,,,,,,,,,Luca Parmitano,366:16:42
+,,,,,,,,,,,Sergei Avdeyev,367:23:23
+,,,,,,,,,,,Donald Pettit,370:16:42
+,,,,,,,,,,,Valery Ryumin,371:17:25
+,,,,,,,,,,,Aleksandr Serebrov,372:22:53
+,,,,,,,,,,,Michael Foale,374:17:17
+,,,,,,,,,,,Leonid Kizim,374:17:58
+,,,,,,,,,,,Aleksey Ovchinin,374:19:31
+,,,,,,,,,,,Christopher Cassidy,377:17:48
+,,,,,,,,,,,Michael Fincke,381:15:09
+,,,,,,,,,,,Valery Korzun,381:15:41
+,,,,,,,,,,,Vasili Tsibliyev,381:15:53
+,,,,,,,,,,,Vladimir Titov,388:00:45
+,,,,,,,,,,,Yuri Onufrienko,389:14:46
+,,,,,,,,,,,Alexander Volkov,391:11:52
+,,,,,,,,,,,Yuri Romanenko,430:18:21
+,,,,,,,,,,,Nikolai Budarin,445:01:26
+,,,,,,,,,,,Anatoli Ivanishin,476:04:42
+,,,,,,,,,,,Alexander Viktorenko,489:01:35
+,,,,,,,,,,,Mikhail Korniyenko,516:10:01
+,,,,,,,,,,,Scott Kelly,521:10:33
+,,,,,,,,,,,Oleg Kotov,526:05:03
+,,,,,,,,,,,Mikhail Tyurin,532:02:52
+,,,,,,,,,,,Anton Shkaplerov,533:05:31
+,,,,,,,,,,,Jeffrey Williams,534:02:47
+,,,,,,,,,,,Oleg Skripochka,536:03:48
+,,,,,,,,,,,Musa Manarov,541:00:29
+,,,,,,,,,,,Aleksandr Skvortsov,545:16:49
+,,,,,,,,,,,Pavel Vinogradov,546:22:32
+,,,,,,,,,,,Sergey Volkov,547:22:22
+,,,,,,,,,,,Yury Usachov,552:22:24
+,,,,,,,,,,,K. Megan McArthur,555:15:37
+,,,,,,,,,,,Viktor M. Afanasyev,555:18:34
+,,,,,,,,,,,Pyotr Dubrov,556:20:06
+,,,,,,,,,,,Anatoly Solovyev,651:00:03
+,,,,,,,,,,,Peggy Whitson,665:22:27
+,,,,,,,,,,,Fyodor Yurchikhin,672:20:40
+,,,,,,,,,,,"Valeri Polyakov, M.D.",678:16:33
+,,,,,,,,,,,Akihiko Hoshide,683:11:27
+,,,,,,,,,,,Mark Vande Hei,724:01:20
+,,,,,,,,,,,Robert S. Kimbrough,731:17:45
+,,,,,,,,,,,Oleg Kononenko,736:18:43
+,,,,,,,,,,,Thomas Pesquet,739:11:53
+,,,,,,,,,,,Alexander Kaleri,769:06:35
+,,,,,,,,,,,Sergei Krikalev,803:09:39
+,,,,,,,,,,,Yuri Malenchenko,826:09:22
+,,,,,,,,,,,Gennady Padalka,878:11:29
+,,,,,,,,,,,Oleg Novitskiy,897:06:19
+,,,,,,,,,,,Gregory B. Jarvis,000:00:00
+,,,,,,,,,,,Michael J. Smith,000:00:01
+,,,,,,,,,,,S. Christa McAuliffe,000:00:02
+,,,,,,,,,,,Joseph A. Walker,000:00:03
+,,,,,,,,,,,Brian Binnie,000:00:04
+,,,,,,,,,,,Michael Melvill,000:00:05
+,,,,,,,,,,,Yuri Gagarin,000:00:06
+,,,,,,,,,,,Scott Carpenter,000:00:07
+,,,,,,,,,,,"Virgil I. ""Gus"" Grissom",000:00:08
+,,,,,,,,,,,Yang Liwei,000:00:09
+,,,,,,,,,,,"Boris Yegorov, M.D.",000:00:10
+,,,,,,,,,,,Konstantin Feoktistov,000:00:11
+,,,,,,,,,,,Gherman Titov,000:00:12
+,,,,,,,,,,,Pavel Belyayev,000:00:13
+,,,,,,,,,,,Georgi Ivanov,000:00:14
+,,,,,,,,,,,Vasili Lazarev,000:00:15
+,,,,,,,,,,,Yevgeny Khrunov,000:00:16
+,,,,,,,,,,,Valery Rozhdestvensky,000:00:17
+,,,,,,,,,,,Vyacheslav Zudov,000:00:18
+,,,,,,,,,,,Gennadi Sarafanov,000:00:19
+,,,,,,,,,,,Lev Dyomin,000:00:20
+,,,,,,,,,,,Vladimir Komarov,000:00:21
+,,,,,,,,,,,Liu Boming,000:00:22
+,,,,,,,,,,,Zhai Zhigang,000:00:23
+,,,,,,,,,,,Valentina Tereshkova,000:00:24
+,,,,,,,,,,,Ellison Onizuka,000:00:25
+,,,,,,,,,,,Gary Payton,000:00:26
+,,,,,,,,,,,Georgi Beregovoi,000:00:27
+,,,,,,,,,,,William Pailes,000:00:28
+,,,,,,,,,,,Edward White,000:00:29
+,,,,,,,,,,,Fei Junlong,000:00:30
+,,,,,,,,,,,Georgi Shonin,000:00:31
+,,,,,,,,,,,Michael J. McCulley,000:00:32
+,,,,,,,,,,,"Sonny Carter, M.D.",000:00:33
+,,,,,,,,,,,Donald Peterson,000:00:34
+,,,,,,,,,,,William B. Lenoir,000:00:35
+,,,,,,,,,,,Fred Haise,000:00:36
+,,,,,,,,,,,"John ""Jack"" Swigert",000:00:37
+,,,,,,,,,,,Judith Resnik,000:00:38
+,,,,,,,,,,,Robert J. Cenker,000:00:39
+,,,,,,,,,,,William Anders,000:00:40
+,,,,,,,,,,,Rodolfo Neri Vela,000:00:41
+,,,,,,,,,,,Sherwood Spring,000:00:42
+,,,,,,,,,,,Thomas Hennen,000:00:43
+,,,,,,,,,,,Dick Scobee,000:00:44
+,,,,,,,,,,,Terry Hart,000:00:45
+,,,,,,,,,,,David Griggs,000:00:46
+,,,,,,,,,,,Edwin J. Garn,000:00:47
+,,,,,,,,,,,Don Lind,000:00:48
+,,,,,,,,,,,Lodewijk van den Berg,000:00:49
+,,,,,,,,,,,Taylor Wang,000:00:50
+,,,,,,,,,,,Aleksei Leonov,000:00:51
+,,,,,,,,,,,Ernst Messerschmid,000:00:52
+,,,,,,,,,,,Reinhard Furrer,000:00:53
+,,,,,,,,,,,Wubbo Ockels,000:00:54
+,,,,,,,,,,,Patrick Baudry,000:00:55
+,,,,,,,,,,,Sultan bin Salman bin Abdulaziz Al Saud,000:00:56
+,,,,,,,,,,,"William Frederick Fisher, M.D.",000:00:57
+,,,,,,,,,,,Dumitru Prunariu,000:00:58
+,,,,,,,,,,,Phạm Tuân,000:00:59
+,,,,,,,,,,,Jügderdemidiin Gürragchaa,000:00:60
+,,,,,,,,,,,Arnaldo Tamayo Méndez,000:00:61
+,,,,,,,,,,,Bertalan Farkas,000:00:62
+,,,,,,,,,,,Sigmund Jähn,000:00:63
+,,,,,,,,,,,Hazza Al Mansouri,000:00:64
+,,,,,,,,,,,Helen Sharman,000:00:65
+,,,,,,,,,,,Rakesh Sharma,000:00:66
+,,,,,,,,,,,Ivan Bella,000:00:67
+,,,,,,,,,,,Anatoli Levchenko,000:00:68
+,,,,,,,,,,,Miroslaw Hermaszewski,000:00:69
+,,,,,,,,,,,Dennis Tito,000:00:70
+,,,,,,,,,,,Franz Viehböck,000:00:71
+,,,,,,,,,,,Toktar Aubakirov,000:00:72
+,,,,,,,,,,,Vladimír Remek,000:00:73
+,,,,,,,,,,,"Mae Jemison, M.D.",000:00:74
+,,,,,,,,,,,Anthony W. England,000:00:75
+,,,,,,,,,,,John-David F. Bartoe,000:00:76
+,,,,,,,,,,,Karl Henize,000:00:77
+,,,,,,,,,,,Loren Acton,000:00:78
+,,,,,,,,,,,Roy Bridges,000:00:79
+,,,,,,,,,,,Muhammed Faris,000:00:80
+,,,,,,,,,,,Franco Malerba,000:00:81
+,,,,,,,,,,,Ronald McNair,000:00:82
+,,,,,,,,,,,"Anna Lee Fisher, M.D.",000:00:83
+,,,,,,,,,,,"Roberta Bondar, M.D.",000:00:84
+,,,,,,,,,,,Jon McBride,000:00:85
+,,,,,,,,,,,Paul Scully-Power,000:00:86
+,,,,,,,,,,,Richard Truly,000:00:87
+,,,,,,,,,,,Neil Armstrong,000:00:88
+,,,,,,,,,,,Joe Edwards,000:00:89
+,,,,,,,,,,,Abdul Ahad Mohmand,000:00:90
+,,,,,,,,,,,Dirk Frimout,000:00:91
+,,,,,,,,,,,Aleksei Yeliseyev,000:00:92
+,,,,,,,,,,,Edgar Mitchell,000:00:93
+,,,,,,,,,,,Stuart Roosa,000:00:94
+,,,,,,,,,,,Alan Shepard,000:00:95
+,,,,,,,,,,,"Donald ""Deke"" Slayton",000:00:96
+,,,,,,,,,,,"F. Drew Gaffney, M.D.",000:00:97
+,,,,,,,,,,,Millie Hughes-Fulford,000:00:98
+,,,,,,,,,,,John Glenn,000:00:99
+,,,,,,,,,,,Joe H. Engle,000:00:100
+,,,,,,,,,,,"L. Gordon Cooper, Jr.",000:00:101
+,,,,,,,,,,,Konstantin Kozeyev,000:00:102
+,,,,,,,,,,,Nikolay Rukavishnikov,000:00:103
+,,,,,,,,,,,Gregory Olsen,000:00:104
+,,,,,,,,,,,Marcos Pontes,000:00:105
+,,,,,,,,,,,Mark Shuttleworth,000:00:106
+,,,,,,,,,,,Yuri Shargin,000:00:107
+,,,,,,,,,,,Robert Springer,000:00:108
+,,,,,,,,,,,Vladimir Shatalov,000:00:109
+,,,,,,,,,,,Ulrich Walter,000:00:110
+,,,,,,,,,,,Rusty Schweickart,000:00:111
+,,,,,,,,,,,Mark Brown,000:00:112
+,,,,,,,,,,,Boris Morukov,000:00:113
+,,,,,,,,,,,"Robert Satcher, M.D.",000:00:114
+,,,,,,,,,,,Lee Morin,000:00:115
+,,,,,,,,,,,Donn F. Eisele,000:00:116
+,,,,,,,,,,,Walter Cunningham,000:00:117
+,,,,,,,,,,,Anatoly Filipchenko,000:00:118
+,,,,,,,,,,,Anousheh Ansari,000:00:119
+,,,,,,,,,,,"Sheikh Muszaphar Shukor, M.D.",000:00:120
+,,,,,,,,,,,Yi So-yeon,000:00:121
+,,,,,,,,,,,Guy Laliberté,000:00:122
+,,,,,,,,,,,Mary L. Cleave,000:00:123
+,,,,,,,,,,,Duane G. Carey,000:00:124
+,,,,,,,,,,,Charles Duke,000:00:125
+,,,,,,,,,,,Michael Collins,000:00:126
+,,,,,,,,,,,Gerhard Thiele,000:00:127
+,,,,,,,,,,,Igor Volk,000:00:128
+,,,,,,,,,,,Yuri Malyshev,000:00:129
+,,,,,,,,,,,Vladimir Aksyonov,000:00:130
+,,,,,,,,,,,Bjarni Tryggvason,000:00:131
+,,,,,,,,,,,Richard Garriott,000:00:132
+,,,,,,,,,,,Donald Williams,000:00:133
+,,,,,,,,,,,Robert Stewart,000:00:134
+,,,,,,,,,,,Buzz Aldrin,000:00:135
+,,,,,,,,,,,Robert Overmyer,000:00:136
+,,,,,,,,,,,Alfred Worden,000:00:137
+,,,,,,,,,,,James Irwin,000:00:138
+,,,,,,,,,,,Walter Schirra,000:00:139
+,,,,,,,,,,,Harrison Schmitt,000:00:140
+,,,,,,,,,,,Ronald Evans,000:00:141
+,,,,,,,,,,,Liu Wang,000:00:142
+,,,,,,,,,,,Liu Yang,000:00:143
+,,,,,,,,,,,Barbara Morgan,000:00:144
+,,,,,,,,,,,Stanley G. Love,000:00:145
+,,,,,,,,,,,Lisa Nowak,000:00:146
+,,,,,,,,,,,Paul W. Richards,000:00:147
+,,,,,,,,,,,Joan Higginbotham,000:00:148
+,,,,,,,,,,,William Oefelein,000:00:149
+,,,,,,,,,,,Gregory C. Johnson,000:00:150
+,,,,,,,,,,,Bruce McCandless II,000:00:151
+,,,,,,,,,,,"William E. Thornton, M.D.",000:00:152
+,,,,,,,,,,,Bruce Melnick,000:00:153
+,,,,,,,,,,,Joseph P. Allen,000:00:154
+,,,,,,,,,,,Richard Gordon,000:00:155
+,,,,,,,,,,,John Fabian,000:00:156
+,,,,,,,,,,,Guy Gardner,000:00:157
+,,,,,,,,,,,Kenneth Reightler,000:00:158
+,,,,,,,,,,,Eugene Trinh,000:00:159
+,,,,,,,,,,,Lawrence J. DeLucas,000:00:160
+,,,,,,,,,,,"Philippe Perrin, EAC",000:00:161
+,,,,,,,,,,,José Hernández,000:00:162
+,,,,,,,,,,,Charles Camarda,000:00:163
+,,,,,,,,,,,James Adamson,000:00:164
+,,,,,,,,,,,Martin J. Fettman,000:00:165
+,,,,,,,,,,,Dale Gardner,000:00:166
+,,,,,,,,,,,"James P. Bagian, M.D.",000:00:167
+,,,,,,,,,,,"James ""Ox"" van Hoften",000:00:168
+,,,,,,,,,,,James McDivitt,000:00:169
+,,,,,,,,,,,Sally Ride,000:00:170
+,,,,,,,,,,,Wang Yaping,000:00:171
+,,,,,,,,,,,Zhang Xiaoguang,000:00:172
+,,,,,,,,,,,John Herrington,000:00:173
+,,,,,,,,,,,Richard Mullane,000:00:174
+,,,,,,,,,,,Dorothy M. Metcalf-Lindenburger,000:00:175
+,,,,,,,,,,,James Dutton,000:00:176
+,,,,,,,,,,,Naoko Yamazaki,000:00:177
+,,,,,,,,,,,Leonid Kadeniuk,000:00:178
+,,,,,,,,,,,Yuri Artyukhin,000:00:179
+,,,,,,,,,,,Maurizio Cheli,000:00:180
+,,,,,,,,,,,James Pawelczyk,000:00:181
+,,,,,,,,,,,"Jay C. Buckey, M.D.",000:00:182
+,,,,,,,,,,,Albert Sacco,000:00:183
+,,,,,,,,,,,Frederick W. Leslie,000:00:184
+,,,,,,,,,,,David M. Brown,000:00:185
+,,,,,,,,,,,Ilan Ramon,000:00:186
+,,,,,,,,,,,"Laurel B. Clark, M.D.",000:00:187
+,,,,,,,,,,,William C. McCool,000:00:188
+,,,,,,,,,,,Charles Fullerton,000:00:189
+,,,,,,,,,,,Bryan O'Connor,000:00:190
+,,,,,,,,,,,Karol Bobko,000:00:191
+,,,,,,,,,,,Loren Shriver,000:00:192
+,,,,,,,,,,,William Gregory,000:00:193
+,,,,,,,,,,,John O. Creighton,000:00:194
+,,,,,,,,,,,"Charles E. Brady, Jr., M.D.",000:00:195
+,,,,,,,,,,,Jean-Jacques Favier,000:00:196
+,,,,,,,,,,,George Nelson,000:00:197
+,,,,,,,,,,,Ronald Sega,000:00:198
+,,,,,,,,,,,Yuri Glazkov,000:00:199
+,,,,,,,,,,,Charles Veach,000:00:200
+,,,,,,,,,,,Frederick Hauck,000:00:201
+,,,,,,,,,,,"Bernard A. Harris, Jr.",000:00:202
+,,,,,,,,,,,Pavel Popovich,000:00:203
+,,,,,,,,,,,"Michel Tognini, EAC",000:00:204
+,,,,,,,,,,,Valeri Kubasov,000:00:205
+,,,,,,,,,,,Mary Ellen Weber,000:00:206
+,,,,,,,,,,,Pedro Duque,000:00:207
+,,,,,,,,,,,Frederick Gregory,000:00:208
+,,,,,,,,,,,Mamoru Mohri,000:00:209
+,,,,,,,,,,,Byron Lichtenberg,000:00:210
+,,,,,,,,,,,Robert Parker,000:00:211
+,,,,,,,,,,,Lloyd Hammond,000:00:212
+,,,,,,,,,,,Michael Coats,000:00:213
+,,,,,,,,,,,Niè Hǎishèng,000:00:214
+,,,,,,,,,,,Gregory Linteris,000:00:215
+,,,,,,,,,,,Roger K. Crouch,000:00:216
+,,,,,,,,,,,Susan Still Kilrain,000:00:217
+,,,,,,,,,,,Reinhold Ewald,000:00:218
+,,,,,,,,,,,Svetlana Savitskaya,000:00:219
+,,,,,,,,,,,Yuri Baturin,000:00:220
+,,,,,,,,,,,Frank Borman,000:00:221
+,,,,,,,,,,,Charles D. Walker,000:00:222
+,,,,,,,,,,,Carlos I. Noriega,000:00:223
+,,,,,,,,,,,John Lounge,000:00:224
+,,,,,,,,,,,Henry Hartsfield,000:00:225
+,,,,,,,,,,,Sidney Gutierrez,000:00:226
+,,,,,,,,,,,James Buchli,000:00:227
+,,,,,,,,,,,David Hilmers,000:00:228
+,,,,,,,,,,,Oleg Makarov,000:00:229
+,,,,,,,,,,,Valery Bykovsky,000:00:230
+,,,,,,,,,,,Thomas Patten Stafford,000:00:231
+,,,,,,,,,,,"Thomas Kenneth ""Ken"" Mattingly II",000:00:232
+,,,,,,,,,,,Steven MacLean,000:00:233
+,,,,,,,,,,,Andriyan Nikolayev,000:00:234
+,,,,,,,,,,,David Leestma,000:00:235
+,,,,,,,,,,,Kathryn Sullivan,000:00:236
+,,,,,,,,,,,Brewster Shaw,000:00:237
+,,,,,,,,,,,Hans Schlegel,000:00:238
+,,,,,,,,,,,David Scott,000:00:239
+,,,,,,,,,,,"Mario Runco, Jr.",000:00:240
+,,,,,,,,,,,Kenneth D. Cameron,000:00:241
+,,,,,,,,,,,Leland D. Melvin,000:00:242
+,,,,,,,,,,,Robert Crippen,000:00:243
+,,,,,,,,,,,Stephen Frick,000:00:244
+,,,,,,,,,,,Eugene Cernan,000:00:245
+,,,,,,,,,,,"Chiaki Mukai, M.D.",000:00:246
+,,,,,,,,,,,Michael Massimino,000:00:247
+,,,,,,,,,,,Georgi Dobrovolski,000:00:248
+,,,,,,,,,,,Viktor Patsayev,000:00:249
+,,,,,,,,,,,Charles Gemar,000:00:250
+,,,,,,,,,,,Dominic A. Antonelli,000:00:251
+,,,,,,,,,,,Winston Scott,000:00:252
+,,,,,,,,,,,Michael T. Good,000:00:253
+,,,,,,,,,,,Michael P. Anderson,000:00:254
+,,,,,,,,,,,Donald McMonagle,000:00:255
+,,,,,,,,,,,Julie Payette,000:00:256
+,,,,,,,,,,,Kenneth Ham,000:00:257
+,,,,,,,,,,,B. Alvin Drew,000:00:258
+,,,,,,,,,,,Rick Husband,000:00:259
+,,,,,,,,,,,Ronald A. Parise,000:00:260
+,,,,,,,,,,,Samuel T. Durrance,000:00:261
+,,,,,,,,,,,"Claudie Haigneré, EAC",000:00:262
+,,,,,,,,,,,Ronald Grabe,000:00:263
+,,,,,,,,,,,Michael Foreman,000:00:264
+,,,,,,,,,,,Charles Simonyi,000:00:265
+,,,,,,,,,,,Nicholas Patrick,000:00:266
+,,,,,,,,,,,Lee Archambault,000:00:267
+,,,,,,,,,,,Nicole Marie Passonno Stott,000:00:268
+,,,,,,,,,,,James M. Kelly,000:00:269
+,,,,,,,,,,,Christer Fuglesang,000:00:270
+,,,,,,,,,,,Richard O. Covey,000:00:271
+,,,,,,,,,,,Pierre Thuot,000:00:272
+,,,,,,,,,,,Umberto Guidoni,000:00:273
+,,,,,,,,,,,Heidemarie Stefanyshyn-Piper,000:00:274
+,,,,,,,,,,,Jeffrey Ashby,000:00:275
+,,,,,,,,,,,John D. Olivas,000:00:276
+,,,,,,,,,,,Michael R. Clifford,000:00:277
+,,,,,,,,,,,Alan G. Poindexter,000:00:278
+,,,,,,,,,,,William Readdy,000:00:279
+,,,,,,,,,,,"Joseph Kerwin, M.D.",000:00:280
+,,,,,,,,,,,Nancy Jan Davis,000:00:281
+,,,,,,,,,,,Charles Bolden,000:00:282
+,,,,,,,,,,,"Ellen S. Baker, M.D.",000:00:283
+,,,,,,,,,,,Paul Lockhart,000:00:284
+,,,,,,,,,,,Eric A. Boe,000:00:285
+,,,,,,,,,,,"Dafydd Williams, M.D.",000:00:286
+,,,,,,,,,,,Guion Bluford,000:00:287
+,,,,,,,,,,,Vladislav Volkov,000:00:288
+,,,,,,,,,,,George D. Zamka,000:00:289
+,,,,,,,,,,,Marc Garneau,000:00:290
+,,,,,,,,,,,"Jean-François Clervoy, EAC",000:00:291
+,,,,,,,,,,,Kevin P. Chilton,000:00:292
+,,,,,,,,,,,Kathryn Hire,000:00:293
+,,,,,,,,,,,Carl Meade,000:00:294
+,,,,,,,,,,,G. David Low,000:00:295
+,,,,,,,,,,,Jim Lovell,000:00:296
+,,,,,,,,,,,Steven R. Nagel,000:00:297
+,,,,,,,,,,,"Rhea Seddon, M.D.",000:00:298
+,,,,,,,,,,,David M. Walker,000:00:299
+,,,,,,,,,,,Daniel Barry,000:00:300
+,,,,,,,,,,,Viktor Gorbatko,000:00:301
+,,,,,,,,,,,Vance Brand,000:00:302
+,,,,,,,,,,,Takao Doi,000:00:303
+,,,,,,,,,,,Gregory H. Johnson,000:00:304
+,,,,,,,,,,,Kalpana Chawla,000:00:305
+,,,,,,,,,,,Richard Hieb,000:00:306
+,,,,,,,,,,,Steven Hawley,000:00:307
+,,,,,,,,,,,Chen Dong,000:00:308
+,,,,,,,,,,,Mark C. Lee,000:00:309
+,,,,,,,,,,,Daniel Brandenstein,000:00:310
+,,,,,,,,,,,Paul Weitz,000:00:311
+,,,,,,,,,,,Michael J. Bloomfield,000:00:312
+,,,,,,,,,,,Janet L. Kavandi,000:00:313
+,,,,,,,,,,,Richard N. Richards,000:00:314
+,,,,,,,,,,,Stephen Oswald,000:00:315
+,,,,,,,,,,,Thomas Akers,000:00:316
+,,,,,,,,,,,Gregory Harbaugh,000:00:317
+,,,,,,,,,,,John Casper,000:00:318
+,,,,,,,,,,,John Young,000:00:319
+,,,,,,,,,,,Jerome Apt,000:00:320
+,,,,,,,,,,,Piers Sellers,000:00:321
+,,,,,,,,,,,Charles Hobaugh,000:00:322
+,,,,,,,,,,,James F. Reilly,000:00:323
+,,,,,,,,,,,Roberto Vittori,000:00:324
+,,,,,,,,,,,Robert L. Gibson,000:00:325
+,,,,,,,,,,,Eileen Collins,000:00:326
+,,,,,,,,,,,Rex Walheim,000:00:327
+,,,,,,,,,,,Aleksei Gubarev,000:00:328
+,,,,,,,,,,,Robert Curbeam,000:00:329
+,,,,,,,,,,,Andrew M. Allen,000:00:330
+,,,,,,,,,,,Robert D. Cabana,000:00:331
+,,,,,,,,,,,Linda Godwin,000:00:332
+,,,,,,,,,,,Charles Precourt,000:00:333
+,,,,,,,,,,,Pamela Melroy,000:00:334
+,,,,,,,,,,,Richard Searfoss,000:00:335
+,,,,,,,,,,,Patrick Forrester,000:00:336
+,,,,,,,,,,,Michael Baker,000:00:337
+,,,,,,,,,,,Christopher Ferguson,000:00:338
+,,,,,,,,,,,Stephen G. Bowen,000:00:339
+,,,,,,,,,,,Ellen Ochoa,000:00:340
+,,,,,,,,,,,Kathryn Thornton,000:00:341
+,,,,,,,,,,,Brian Duffy,000:00:342
+,,,,,,,,,,,Terrence Wilcutt,000:00:343
+,,,,,,,,,,,Steven Smith,000:00:344
+,,,,,,,,,,,Mark Polansky,000:00:345
+,,,,,,,,,,,Nancy J. Currie,000:00:346
+,,,,,,,,,,,"Brent W. Jett, Jr.",000:00:347
+,,,,,,,,,,,Terence Henricks,000:00:348
+,,,,,,,,,,,Stephanie Wilson,000:00:349
+,,,,,,,,,,,Michael Gernhardt,000:00:350
+,,,,,,,,,,,Donald Thomas,000:00:351
+,,,,,,,,,,,James H. Newman,000:00:352
+,,,,,,,,,,,Claude Nicollier,000:00:353
+,,,,,,,,,,,Joseph Tanner,000:00:354
+,,,,,,,,,,,Peter Wisoff,000:00:355
+,,,,,,,,,,,Jean-Loup Chrétien,000:00:356
+,,,,,,,,,,,Scott Horowitz,000:00:357
+,,,,,,,,,,,Jing Haipeng,000:00:358
+,,,,,,,,,,,Stephen Robinson,000:00:359
+,,,,,,,,,,,Dominic Gorie,000:00:360
+,,,,,,,,,,,"Charles ""Pete"" Conrad",000:00:361
+,,,,,,,,,,,Janice Voss,000:00:362
+,,,,,,,,,,,Vitaliy Zholobov,000:00:363
+,,,,,,,,,,,Ulf Merbold,000:00:364
+,,,,,,,,,,,Bonnie J. Dunbar,000:00:365
+,,,,,,,,,,,Jeffrey Hoffman,000:00:366
+,,,,,,,,,,,Scott Altman,000:00:367
+,,,,,,,,,,,Frederick Sturckow,000:00:368
+,,,,,,,,,,,Wendy Lawrence,000:00:369
+,,,,,,,,,,,Boris Volynov,000:00:370
+,,,,,,,,,,,James Halsell,000:00:371
+,,,,,,,,,,,Kevin Kregel,000:00:372
+,,,,,,,,,,,Thomas D. Jones,000:00:373
+,,,,,,,,,,,"Story Musgrave, M.D.",000:00:374
+,,,,,,,,,,,Mark Kelly,000:00:375
+,,,,,,,,,,,Marsha Ivins,000:00:376
+,,,,,,,,,,,Jerry L. Ross,000:00:377
+,,,,,,,,,,,Curtis Brown,000:00:378
+,,,,,,,,,,,"Scott Parazynski, M.D.",000:00:379
+,,,,,,,,,,,Richard Linnehan,000:00:380
+,,,,,,,,,,,John Grunsfeld,000:00:381
+,,,,,,,,,,,Tamara E. Jernigan,000:00:382
+,,,,,,,,,,,Steven Lindsey,000:00:383
+,,,,,,,,,,,Kenneth Cockrell,000:00:384
+,,,,,,,,,,,Vladimir Vasyutin,000:00:385
+,,,,,,,,,,,Franklin Chang-Diaz,000:00:386
+,,,,,,,,,,,Kent Rominger,000:00:387
+,,,,,,,,,,,Jack Lousma,000:00:388
+,,,,,,,,,,,James Wetherbee,000:00:389
+,,,,,,,,,,,"Léopold Eyharts, EAC",000:00:390
+,,,,,,,,,,,Alan Bean,000:00:391
+,,,,,,,,,,,Owen Garriott,000:00:392
+,,,,,,,,,,,Petr Klimuk,000:00:393
+,,,,,,,,,,,Vitali Sevastyanov,000:00:394
+,,,,,,,,,,,Sergei Zalyotin,000:00:395
+,,,,,,,,,,,Edward Gibson,000:00:396
+,,,,,,,,,,,Gerald P. Carr,000:00:397
+,,,,,,,,,,,William Pogue,000:00:398
+,,,,,,,,,,,Aleksandar Panayotov Aleksandrov,000:00:399
+,,,,,,,,,,,Douglas G. Hurley,000:00:400
+,,,,,,,,,,,Robert L. Behnken,000:00:401
