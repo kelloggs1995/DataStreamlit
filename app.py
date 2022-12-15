@@ -26,7 +26,7 @@ plt.style.use("dark_background")
 
 
 # Loading Data Frame
-data = pd.read_csv("./ComsSimple.csv")
+data = pd.read_csv("./ComSimple.csv")
 
 
 # # 1 Some Basic information about data like total number of entries
